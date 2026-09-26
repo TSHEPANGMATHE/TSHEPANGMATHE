@@ -13,16 +13,16 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-* 🎓 Second-year Computer Science student at **Tshwane University of Technology**
-* ☕ Currently learning **Java & Object-Oriented Programming**
-* 🌐 Interested in **Software & Web Development**
-* 🚀 Building projects to develop real-world development skills
+* Second-year Computer Science student at **Tshwane University of Technology**
+*  Currently learning **Java & Object-Oriented Programming**
+*  Interested in **Software & Web Development**
+*  Building projects to develop real-world development skills
 
-### 🚀 Featured Project
+###  Featured Project
 
-**🧮 MATHLA — Mathematics Learning Platform**
+** MATHLA — Mathematics Learning Platform**
 
 A web platform providing learning resources and practice material for Grade 10–12 Mathematics and Mathematical Literacy learners.
 
@@ -30,7 +30,7 @@ A web platform providing learning resources and practice material for Grade 10�
 
 🔗 [View MATHLA](https://tshepangmathe.github.io/MATHLA-MATHS-WEB/)
 
-### 🛠️ Technologies
+###  Technologies
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
@@ -42,7 +42,7 @@ A web platform providing learning resources and practice material for Grade 10�
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
 </p>
 
-### 📌 Currently Learning
+###  Currently Learning
 
 **Java • OOP • Data Structures & Algorithms • Web Development**
 
