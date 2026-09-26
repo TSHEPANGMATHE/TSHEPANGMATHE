@@ -15,8 +15,8 @@
 
 ###  About Me
 
-* Second-year Computer Science student at **Tshwane University of Technology**
-*  Currently learning **Java & Object-Oriented Programming**
+*  Second-year Computer Science student at **Tshwane University of Technology**
+*  Currently developing my skills in **Java & Object-Oriented Programming**
 *  Interested in **Software & Web Development**
 *  Building projects to develop real-world development skills
 
@@ -44,7 +44,7 @@ A web platform providing learning resources and practice material for Grade 10�
 
 ###  Currently Learning
 
-**Java • OOP • Data Structures & Algorithms • Web Development**
+**Java • OOP • Database Programming • Advanced Discrete Structures • Data Structures & Algorithms • Web Development**
 
 ---
 
