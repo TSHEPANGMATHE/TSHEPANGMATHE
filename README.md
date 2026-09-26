@@ -7,39 +7,39 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tshepang-mathe-b66458426/" target="_blank">
+  <a href="https://www.linkedin.com/in/tshepang-mathe-b66458426/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:tshepangmathe160@gmail.com">
+  <a href="mailto:tshepangmathe160@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" alt="Email"/>
   </a>
 </p>
 
 ---
 
-###  About Me
+### 👨‍💻 About Me
 
-*  Second-year Computer Science student at **Tshwane University of Technology**
-*  Currently developing my skills in **Java & Object-Oriented Programming**
-*  Interested in **Software & Web Development**
-*  Building projects to develop real-world development skills
+* 🎓 Second-year Computer Science student at **Tshwane University of Technology**
+* ☕ Currently developing my skills in **Java & Object-Oriented Programming**
+* 🌐 Interested in **Software & Web Development**
+* 🚀 Building projects to develop real-world development skills
 
-###  Featured Project
+### 🚀 Featured Project
 
-** MATHLA — Mathematics Learning Platform**
+**🧮 MATHLA — Mathematics Learning Platform**
 
 A web platform providing learning resources and practice material for Grade 10–12 Mathematics and Mathematical Literacy learners.
 
 **Tech:** HTML • CSS • JavaScript
 
 <p>
-  <a href="https://tshepangmathe.github.io/MATHLA-MATHS-WEB/" target="_blank">
+  <a href="https://tshepangmathe.github.io/MATHLA-MATHS-WEB/" target="_blank" rel="noopener noreferrer">
     View MATHLA →
   </a>
 </p>
 
-###  Technologies
+### 🛠️ Technologies
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
@@ -51,7 +51,7 @@ A web platform providing learning resources and practice material for Grade 10�
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
 </p>
 
-###  Currently Learning
+### 📚 Currently Learning
 
 **Java • OOP • Database Programming • Advanced Discrete Structures • Data Structures & Algorithms • Web Development**
 
