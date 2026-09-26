@@ -1,20 +1,57 @@
-<h1 align="center">Hi 👋, I'm Tshepang</h1>
-<h3 align="center">A passionate student developer @ TUT</h3>
+<h1 align="center">Hi 👋, I'm Tshepang Mathe</h1>
 
-- 🔭 I’m currently working on [MATHLA mathematics website](https://tshepangmathe.github.io/MATHLA-MATHS-WEB/)
+<h3 align="center">Computer Science Student @ TUT | Aspiring Software Developer</h3>
 
-- 🌱 I’m currently learning **OOP**
-
-- 📫 How to reach me **tshepangmathe160@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ tshepang-mathe-b66458426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ tshepang-mathe-b66458426" height="30" width="40" /></a>
+<p align="center">
+  I build practical software projects while developing my skills in Java, web development, and problem solving.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tshepang-mathe-b66458426/">LinkedIn</a> •
+  <a href="mailto:tshepangmathe160@gmail.com">Email</a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tshepangmathe&show_icons=true&locale=en&layout=compact" alt="tshepangmathe" /></p>
+---
 
+### 👨‍💻 About Me
 
+* 🎓 Second-year Computer Science student at **Tshwane University of Technology**
+* ☕ Currently learning **Java & Object-Oriented Programming**
+* 🌐 Interested in **Software & Web Development**
+* 🚀 Building projects to develop real-world development skills
+
+### 🚀 Featured Project
+
+**🧮 MATHLA — Mathematics Learning Platform**
+
+A web platform providing learning resources and practice material for Grade 10–12 Mathematics and Mathematical Literacy learners.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View MATHLA](https://tshepangmathe.github.io/MATHLA-MATHS-WEB/)
+
+### 🛠️ Technologies
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
+</p>
+
+### 📌 Currently Learning
+
+**Java • OOP • Data Structures & Algorithms • Web Development**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tshepangmathe&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
