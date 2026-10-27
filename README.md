@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tshepang Mathe</h1>
 
-<h3 align="center">Computer Science Student @ TUT | Aspiring Software Developer</h3>
+<h3 align="center">
+  Second-year Computer Science student at TUT
+</h3>
 
 <p align="center">
-  I build practical software projects while developing my skills in Java, web development, and problem solving.
+  I build practical software projects while strengthening my foundations in programming, web development, problem solving, and software engineering.
 </p>
 
 <p align="center">
@@ -18,18 +20,39 @@
 
 ---
 
-###  About Me
+### About Me
 
-*  Second-year Computer Science student at **Tshwane University of Technology**
-*  Currently developing my skills in **Java & Object-Oriented Programming**
-*  Interested in **Software & Web Development**
-*  Building projects to develop real-world development skills
+- Second-year Computer Science student at Tshwane University of Technology
+- Interested in software development, web development, and problem solving
+- Building practical projects to apply programming concepts in real-world scenarios
+- Currently strengthening my skills in Java, OOP, databases, and web technologies
 
-###  Featured Project
+### Academic Focus
 
-** MATHLA — Mathematics Learning Platform**
+My second-year Computer Science modules include:
 
-A web platform providing learning resources and practice material for Grade 10–12 Mathematics and Mathematical Literacy learners.
+- CBF15D — Computing Fundamentals B
+- WEB15D — Web Computing
+- DCT15D — Discrete Structures
+- PPBF15D — Principles of Programming B
+
+These modules are helping me build a solid foundation in core programming, logic, data structures, and web-based development.
+
+### Currently Learning
+
+- Java & Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Programming
+- Web Development
+- Problem Solving and Software Design Fundamentals
+
+---
+
+### Featured Project
+
+**MATHLA — Mathematics Learning Platform**
+
+A web-based platform designed to support learners with mathematics and mathematical literacy resources, practice material, and structured study support.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -39,7 +62,9 @@ A web platform providing learning resources and practice material for Grade 10�
   </a>
 </p>
 
-###  Technologies
+---
+
+### Tech Stack
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
@@ -51,15 +76,19 @@ A web platform providing learning resources and practice material for Grade 10�
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
 </p>
 
-###  Currently Learning
-
-**Java • OOP • Database Programming • Advanced Discrete Structures • Data Structures & Algorithms • Web Development**
-
 ---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tshepangmathe&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tshepangmathe&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
+
+---
 
 <p align="center">
   <i>Building, learning, and improving one project at a time.</i>
